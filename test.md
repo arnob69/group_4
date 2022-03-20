@@ -6,7 +6,7 @@
 
 I need to highlight these ==very important words==.
 
-<img src="file:///C:/Users/arnob/Pictures/xc.PNG" title="" alt="the image" width="476">
+
 
 `    ```   {     "firstName": "John",     "lastName": "Smith",     "age": 25   }   ``` `
 
